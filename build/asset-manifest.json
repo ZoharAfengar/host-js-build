@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8b62f02f.js",
+    "index.html": "/index.html",
+    "static/media/BookmarkIconPushed.png": "/static/media/BookmarkIconPushed.d63787a64b071c6876f8.png",
+    "static/media/jacket.png": "/static/media/jacket.1da283bbc2f1a50d6306.png",
+    "static/media/shirt.png": "/static/media/shirt.93306c91cd635db12319.png",
+    "static/media/shoes.png": "/static/media/shoes.05a794af49e600d38586.png",
+    "static/media/pants.png": "/static/media/pants.fa29a72b0c3de4239610.png",
+    "static/media/handbag.png": "/static/media/handbag.acaa21d6591cc425ae23.png",
+    "static/media/shoes_cheap.png": "/static/media/shoes_cheap.b7085cc29f0f43b9e649.png",
+    "static/media/blazer.png": "/static/media/blazer.35037642e8f9cc6f0136.png",
+    "static/media/BookmarkLogoNoBoarder.png": "/static/media/BookmarkLogoNoBoarder.4af28c946fd31f8cb5be.png",
+    "static/media/WannaBeLogoWithTextColorNoBorder.png": "/static/media/WannaBeLogoWithTextColorNoBorder.c85a3f8ccc9399c27883.png",
+    "static/media/pants_cheap.png": "/static/media/pants_cheap.df2e33849c31312ab8f1.png",
+    "static/media/pants_rich.png": "/static/media/pants_rich.37d2ce4b96d0a64a3fa5.png",
+    "static/media/bag.png": "/static/media/bag.1ffc5c1868d01232a95b.png",
+    "static/media/green_glasses_rich.png": "/static/media/green_glasses_rich.d9cfac13d0de2740513b.png",
+    "static/media/shoes_rich.png": "/static/media/shoes_rich.2c096af09ac4f55e9a66.png",
+    "static/media/RefreshIcon.png": "/static/media/RefreshIcon.59b153d4a6639fc09d71.png",
+    "static/media/black_jacked_cheap.jpeg": "/static/media/black_jacked_cheap.cd99c180efc97a7cf1b0.jpeg",
+    "static/media/black_jackes_rich.png": "/static/media/black_jackes_rich.e075c27dda3a7684b297.png",
+    "static/media/green_glasses_cheap.jpeg": "/static/media/green_glasses_cheap.50fb71c59b7dca5a6fee.jpeg",
+    "static/media/BookmarkIcon.png": "/static/media/BookmarkIcon.c8aa2de7eae204cdc133.png",
+    "static/media/icons8-trash.svg": "/static/media/icons8-trash.8329f97f4319b291dcbd02e0ab848150.svg",
+    "main.8b62f02f.js.map": "/static/js/main.8b62f02f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b62f02f.js"
+  ]
+}
