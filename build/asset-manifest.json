@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.d7ca63fd.js",
+    "main.js": "/static/js/main.6172bdf0.js",
     "index.html": "/index.html",
     "static/media/BookmarkIconPushed.png": "/static/media/BookmarkIconPushed.d63787a64b071c6876f8.png",
     "static/media/jacket.png": "/static/media/jacket.1da283bbc2f1a50d6306.png",
@@ -23,9 +23,9 @@
     "static/media/green_glasses_cheap.jpeg": "/static/media/green_glasses_cheap.50fb71c59b7dca5a6fee.jpeg",
     "static/media/BookmarkIcon.png": "/static/media/BookmarkIcon.c8aa2de7eae204cdc133.png",
     "static/media/icons8-trash.svg": "/static/media/icons8-trash.8329f97f4319b291dcbd02e0ab848150.svg",
-    "main.d7ca63fd.js.map": "/static/js/main.d7ca63fd.js.map"
+    "main.6172bdf0.js.map": "/static/js/main.6172bdf0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d7ca63fd.js"
+    "static/js/main.6172bdf0.js"
   ]
 }
